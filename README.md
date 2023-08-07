@@ -1,4 +1,8 @@
+<a href="https://github.com/Charmve/computer-vision-in-action">
+    <img align="right" src="https://komarev.com/ghpvc/?username=Charmve&label=Visitors&color=red&style=flat&logo=github" alt="gtihub-visitors" />
+</a>
 
+## Hi, 👋  I'm <a href="https://charmve.github.io/" target="_blank">ZHANG WEI (Charmve)</a> <sup><a href="https://github.com/Charmve/Charmve/blob/master/OctoCharmve/pronounce.m4a?raw=true" title="pronunciation">🔊</a></sup>
 
 
 **shindouhiro/shindouhiro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

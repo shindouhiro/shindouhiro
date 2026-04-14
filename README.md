@@ -34,10 +34,10 @@
 
 <div align="center">
   <a href="https://github.com/shindouhiro">
-    <img src="https://github-readme-stats.vercel.app/api?username=shindouhiro&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
+    <img src="https://github-readme-stats.sigma-school.com/api?username=shindouhiro&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
   </a>
   <a href="https://github.com/shindouhiro">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shindouhiro&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+    <img src="https://github-readme-stats.sigma-school.com/api/top-langs/?username=shindouhiro&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
   </a>
   <br/>
   <a href="https://github.com/shindouhiro">
@@ -68,6 +68,6 @@
 </div>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/shindouhiro/shindouhiro/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+  <img src="https://raw.githubusercontent.com/shindouhiro/shindouhiro/output/github-contribution-grid-snake.svg?v=20260414" alt="Snake animation" />
 </p>
 

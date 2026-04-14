@@ -34,14 +34,14 @@
 
 <div align="center">
   <a href="https://github.com/shindouhiro">
-    <img src="https://github-readme-stats.sigma-school.com/api?username=shindouhiro&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
+    <img src="https://github-readme-stats-one.vercel.app/api?username=shindouhiro&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" />
   </a>
   <a href="https://github.com/shindouhiro">
-    <img src="https://github-readme-stats.sigma-school.com/api/top-langs/?username=shindouhiro&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+    <img src="https://github-readme-stats-one.vercel.app/api/top-langs/?username=shindouhiro&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
   </a>
   <br/>
   <a href="https://github.com/shindouhiro">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=shindouhiro&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=shindouhiro&theme=radical&hide_border=true" alt="GitHub Streak" />
   </a>
 </div>
 
